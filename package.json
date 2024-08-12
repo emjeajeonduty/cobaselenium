@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "selenium-webdriver": "^4.23.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "cucumber": "^6.0.7"
+  },
+  "name": "cobaselenium",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "cucumber-js features/test.feature"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
